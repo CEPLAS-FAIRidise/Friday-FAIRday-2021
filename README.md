@@ -1,4 +1,4 @@
-# Workshop series: Friday FAIRday
+# Workshop series: Friday FAIRday 2021
 
 ## Slides 
 [Session I](20210611_PRE_FridayFAIRday_S1.pdf) - Directory structures and file naming
