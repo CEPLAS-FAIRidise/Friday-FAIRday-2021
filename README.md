@@ -5,7 +5,7 @@
 
 
 Supplementary Materials       
-    - [WorkSheet for designing a filenaming convention](SUP_DirectoryStructureFileNaming/WorkSheet_DirectoryStructureFileNaming.gdoc)  
+    - [WorkSheet for designing a filenaming convention](SUP_DirectoryStructureFileNaming/WorkSheet_DirectoryStructureFileNaming.docx)  
     - [Template for creating readme](SUP_DirectoryStructureFileNaming/Template_README_DirectoryStructureFileNaming.pdf)      
     - [Notes](SUP_DirectoryStructureFileNaming/Notes_DirectoryStructureFileNaming.pdf)  
 
