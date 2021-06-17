@@ -5,7 +5,7 @@
 
 Session  |  Slides | Supplementary Materials |
 ------------ | ------------- | ------------- |
-Session I ![](./ann_icons/ANN_Session01.png) | [Directory structures and file naming](20210611_PRE_FridayFAIRday_S1.pdf) | <ul><li>[WorkSheet for designing a filenaming convention](SUP_DirectoryStructureFileNaming/WorkSheet_DirectoryStructureFileNaming.docx)</li><li>[Template for creating readme](SUP_DirectoryStructureFileNaming/Template_README_DirectoryStructureFileNaming.pdf)</li><li>[Notes](SUP_DirectoryStructureFileNaming/Notes_DirectoryStructureFileNaming.pdf)</li><li>[CheckList for naming](SUP_DirectoryStructureFileNaming/Checklist_DirectoryStructureFileNaming.pdf)</ul>|
+Session I <br> <img src="./ann_icons/ANN_Session01.png" width="140"/> | [Directory structures and file naming](20210611_PRE_FridayFAIRday_S1.pdf) | <ul><li>[WorkSheet for designing a filenaming convention](SUP_DirectoryStructureFileNaming/WorkSheet_DirectoryStructureFileNaming.docx)</li><li>[Template for creating readme](SUP_DirectoryStructureFileNaming/Template_README_DirectoryStructureFileNaming.pdf)</li><li>[Notes](SUP_DirectoryStructureFileNaming/Notes_DirectoryStructureFileNaming.pdf)</li><li>[CheckList for naming](SUP_DirectoryStructureFileNaming/Checklist_DirectoryStructureFileNaming.pdf)</ul>|
 
 ----
 
