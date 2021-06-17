@@ -5,11 +5,11 @@
 
 Session  |  Slides | Supplementary Materials |
 ------------ | ------------- | ------------- |
-Session I | [Directory structures and file naming](20210611_PRE_FridayFAIRday_S1.pdf) | <ul><li>[WorkSheet for designing a filenaming convention](SUP_DirectoryStructureFileNaming/WorkSheet_DirectoryStructureFileNaming.docx)</li><li>[Template for creating readme](SUP_DirectoryStructureFileNaming/Template_README_DirectoryStructureFileNaming.pdf)</li><li>[Notes](SUP_DirectoryStructureFileNaming/Notes_DirectoryStructureFileNaming.pdf)</li><li>[CheckList for naming](SUP_DirectoryStructureFileNaming/Checklist_DirectoryStructureFileNaming.pdf)</ul>|
+Session I ![](./ann_icons/ANN_Session01.png) | [Directory structures and file naming](20210611_PRE_FridayFAIRday_S1.pdf) | <ul><li>[WorkSheet for designing a filenaming convention](SUP_DirectoryStructureFileNaming/WorkSheet_DirectoryStructureFileNaming.docx)</li><li>[Template for creating readme](SUP_DirectoryStructureFileNaming/Template_README_DirectoryStructureFileNaming.pdf)</li><li>[Notes](SUP_DirectoryStructureFileNaming/Notes_DirectoryStructureFileNaming.pdf)</li><li>[CheckList for naming](SUP_DirectoryStructureFileNaming/Checklist_DirectoryStructureFileNaming.pdf)</ul>|
 
 ----
 
-## Info
+## About this workshop
 
 We offer this data management workshop series about organizing research and project data. The workshops are open to everyone. The sessions are independent and we welcome you to join any topic of your interest.
 Kindly feel free to contact us with any questions, feedback or topic requests.
