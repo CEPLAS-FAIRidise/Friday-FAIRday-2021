@@ -24,4 +24,4 @@ Upcoming topics and dates will be announced via CEPLAS leaflet and CEPLAS Friday
 First Friday of the month | 2 – 2:30 pm (+ open end for discussion)
 
 ## Registration link
-[Please join us via Zoom](https://uni-koeln.zoom.us/meeting/register/tJIoceqprzktGdGIuwRjp6elVQo5an-TnDmF)
+[Please join us via Zoom](https://updatelater)
